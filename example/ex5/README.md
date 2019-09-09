@@ -1,1 +1,1 @@
-watertank controled by the JADE agent through the Redis
+the same as ex4 but using MQTT
