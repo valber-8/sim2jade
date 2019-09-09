@@ -1,3 +1,6 @@
+The same as ex1 using redis-matlab (see below)
+
+
 # redis-matlab
 
 A [Redis](http://redis.io) client for Matlab, written in pure Matlab.  Dan Swain, dan.t.swain@gmail.com, 11/2012.
